@@ -1,0 +1,6 @@
+1. As a hobby gardener, I want to sell my extra tomatoes without setting up a stand, so that it accommodates my busy schedule.
+
+2. As a gardener in a community, I want to be able to trade the extra tomatoes I have, so that I can get basil and kale from my neighbors.
+
+3. As a seller, I want my name hidden from listings, so that my privacy is protected.
+

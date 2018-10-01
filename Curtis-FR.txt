@@ -1,0 +1,6 @@
+1. The System shall provide a means for a grower to sell produce within the application.
+
+2. The system shall provide a means for a grower to trade produce for other produce that other growers in the community have posted.
+
+3. The system shall provide a setting that redacts a grower's name from the listing.
+
