@@ -1,0 +1,6 @@
+The system shall provide a way to sort and filter listings by distance.
+
+The system shall provide an option for growers to upload photo(s) of their produce.
+
+The system shall provide an option for buyers to post a “wish list,” if they want something that they don’t see listed.
+
