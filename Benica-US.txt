@@ -2,4 +2,4 @@ As a buyer, I want to be able to sort and filter listings by distance, so that I
 
 As a buyer, I want to see pictures of the produce in listings, so that I can avoid low quality produce.
 
-As a home cook, I prefer to buy locally produced food, but there are some things I can’t find at the farmer’s market.
+As a home cook, I would like to be able to request things I can’t find, so I can make a variety of dishes.
