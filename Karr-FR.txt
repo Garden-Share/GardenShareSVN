@@ -1,0 +1,5 @@
+The system shall provide a way for users to send messages to one another.
+
+The system shall provide a user directory.
+
+The system shall provide a search function that allows users to sort by distance or other attributes.
