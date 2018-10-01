@@ -1,0 +1,5 @@
+The system shall provide a way to search listings by category.
+
+The system shall provide an option to turn on notifications for when certain produce gets listed.
+
+The system shall provide a process of 4 steps or less to list produce.

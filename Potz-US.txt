@@ -1,0 +1,5 @@
+As a user with extra produce, I want posting my produce to take at most 4 steps, so that it is not an extra hassle. 
+
+As a user looking to buy produce, I want a search function, so that I can easily find what I’m looking for.
+
+As a user looking to buy produce, I want to be able to set notifications for certain items, so that I know when something I want is available.
