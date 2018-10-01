@@ -1,0 +1,6 @@
+1. As a seller, I want my name hidden from listings, so that my privacy is protected.
+
+2. As a buyer, I want to be able to sort and filter listings by distance, so that I can find nearby produce.
+
+3. As a buyer, I want to see pictures of the produce in listings, so that I can avoid low quality produce.
+

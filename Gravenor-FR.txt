@@ -1,0 +1,6 @@
+1. The System shall provide chat functionality between buyers and sellers.
+
+2. The system shall allow sellers to create, operate, and maintain user accounts.
+
+3. The system shall provide search functionality for all users, authenticated or not.
+
