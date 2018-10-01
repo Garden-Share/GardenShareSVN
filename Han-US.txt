@@ -1,0 +1,5 @@
+As a small garden owner, I want to be able to share my products from the garden with my neighbors, so it is not wasted.
+
+As a participant of charity, I want an application that helps collecting food from neighbors with small garden, so that I can gather more food in short amount of time for those who need healthy vegetables.
+
+As a neighbor living with college student, I want to help students who have financial difficulties with my lemon that grows in my backyard, so that they don’t starve.

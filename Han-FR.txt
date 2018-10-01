@@ -1,0 +1,5 @@
+The system shall provide a web page that allow user to share their products. 
+
+The system shall provide a well-organized user interface that allows user to see products.
+
+The system shall provide a feature to create a groups for the user who wants to be part of the community with same objectives or goals.
